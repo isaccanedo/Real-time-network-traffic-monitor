@@ -1,4 +1,4 @@
-# nload
+# Network traffic
 **Real time network traffic monitor for the text console**
 
 ## Introduction
